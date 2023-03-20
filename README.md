@@ -12,9 +12,14 @@ Maternal mortality is an important factor of reproductive health that is sometim
 
 ##### This being said here are some of the questions being considered for this analysis:
 
-*How have global trends of maternal mortality changed over time? 
+1. *How have global trends of maternal mortality changed over time?* 
 
-What are these changes due to (some of the data to be used will be whether or not a medical personnel were present, and income level of countries)?*
+2. *Is the state of maternal health getting better or worse?* 
+
+3. *What factors reduce maternal mortality?*
+
+4. *What does this data analysis tell us about the futures of maternal health?*
+
 
 
 
